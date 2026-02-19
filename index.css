@@ -105,6 +105,7 @@ button:hover,
 button:active {
     background: var(--clr-Green);
     color: var(--clr-Grey800);
+    cursor: pointer;
 }
 
 @media (min-width: 550px) {
